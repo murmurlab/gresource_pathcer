@@ -6,7 +6,7 @@ if [ ! -d ${workdir}/files ]; then
   mkdir -p ${workdir}/files
 fi
 
-gst=~/.themes/Mojave-dark-solid-alt/gtk-3.0/gtk.gresource
+gst=$1
 
 for r in `gresource list $gst`; do
 	w=${r#\/}
