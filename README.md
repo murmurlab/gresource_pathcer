@@ -9,15 +9,23 @@
  ```
 files be extracted to directory `files/`
 like:
+
 files/
 
 --org/
+
 ----gnome/
+
 ------theme/
+
 ------gtk.css
+
 ------gtk-dark.css
+
 ------assets/
+
 --------header-entry.png
+
 
 after making your changes (eg. gtk.css) execute
 ```bash
