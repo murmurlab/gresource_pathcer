@@ -10,6 +10,7 @@
 files be extracted to directory `files/`
 like:
 files/
+
 --org/
 ----gnome/
 ------theme/
