@@ -1,8 +1,9 @@
-#[Article](https://github.com/murmurlab/gresource_pathcer/tree/master/)
+# [Article](https://github.com/murmurlab/gresource_pathcer/tree/master/)
 # .gresource pathcer
 
 **.gresource pathcer** for modifying / editing a gresource file
-###**usage**:
+
+### **usage**:
  execute
  ```bash
  sh extract.sh path/to/file.gresource
